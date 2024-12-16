@@ -1,5 +1,5 @@
 
-# NIST CSF Dashboard with Mock Data
+# NIST CSF 2.0 Dashboard with Mock Data
 
 This repository provides a **dashboard** for [Apache Superset](https://superset.apache.org/) along with a SQLite database containing mock data based on the **NIST CSF 2.0** framework. Additionally, it includes a Python script for editing and managing maturity levels, reviewers, justifications, and recommendations for each analyzed item.
 
